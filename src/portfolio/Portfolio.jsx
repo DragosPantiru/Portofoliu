@@ -13,10 +13,18 @@ const items = [
   {
     id: crypto.randomUUID(),
     title: "COMMUNICATIONS IN CONTROL SYSTEMS ",
-    img: "proiect1.png",
-    desc: " Objective: Gained expertise in the organization, functionality, and utilization of data communications across various layers of industrial control network management. Key Responsibilities: <br /> 1. Communication channel access technique (MAC): master/slave or token. <br /> 2. Node identification method. ",
+    img: "proiect2.png",
+    desc: " Objective: Gained expertise in the organization, functionality, and utilization of data communications across various layers of industrial control network management. Key Responsibilities: 1. Communication channel access technique (MAC): master/slave or token. 2. Node identification method. ",
     link: "https://github.com/DragosPantiru/AI.git"
   },
+  {
+    id: crypto.randomUUID(),
+    title: "WEB APPLICATION/e-commerce: The Suitcase with books",
+    img: "proiect3.png",
+    desc: "It is an e-commerce platform for buying and reading print and digital books. We offer personalized recommendations, reader reviews, competitive prices, and fast delivery.",
+    link: "https://github.com/DragosPantiru/e-commerce"
+  },
+
 
 
 
