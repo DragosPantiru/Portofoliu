@@ -52,14 +52,12 @@ function App() {
         <Portfolio />
       </section>
       <section>
-        nothing
+
       </section>
       <section>
-        nothing
+
       </section>
-      <section>
-        nothing
-      </section>
+
 
 
 
