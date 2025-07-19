@@ -26,7 +26,7 @@ function Contact1() {
                 <motion.h1 variants={variants}>Let's work together</motion.h1>
                 <motion.div className="item" variants={variants}>
                     <h2>Mail</h2>
-                    <span>dragos.pantiru@student.tuiasi.ro</span>
+                    <span>pantiru_dragos2014@yahoo.com</span>
                 </motion.div>
                 <motion.div className="item" variants={variants}>
                     <h2>Phone</h2>
